@@ -4,10 +4,7 @@ Given an image of a dog, this algorithm will identify an estimate of the canineâ
 
 ![Sample Output][image1]
 
-
 ### Prerequisites
 Setup a Jupyter notebook with Pytorch + GPU
 
 #### Note: This will not work without the training data I have on disk
-
-

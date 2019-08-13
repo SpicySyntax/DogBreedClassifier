@@ -1,7 +1,8 @@
 
 ## Project Overview
 
-Given an image of a dog, this algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
+Given an image of a dog, this algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed. This is accomplished using [Transer Learning](https://en.wikipedia.org/wiki/Transfer_learning) and [CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network).
+
 
 
 ### Prerequisites

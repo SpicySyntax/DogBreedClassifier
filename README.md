@@ -10,4 +10,7 @@ Given an image of a dog, this algorithm will identify an estimate of the canineâ
 Setup a Jupyter notebook with Pytorch + GPU
 - I suggest setting up a [local GPU enabled workspace](https://medium.com/@ab9.bhatia/set-up-gpu-accelerated-tensorflow-keras-on-windows-10-with-anaconda-e71bfa9506d1)
 
+### If Notebook not loading in github
+Use this [link](https://nbviewer.jupyter.org/github/SpicySyntax/DogBreedClassifier/blob/master/dog_app.ipynb)
+
 #### Note: This will not work without the training data I have on disk
